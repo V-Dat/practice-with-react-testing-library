@@ -1,0 +1,7 @@
+.App {
+  position: relative;
+  height: calc(100vh - var(--banner-mt));
+  font-family: "Varela Round", sans-serif;
+  width: 80%;
+  margin: 0 auto;
+}
